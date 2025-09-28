@@ -38,7 +38,27 @@ Ayrıca tasarım, video ve 3D işlerle de ilgileniyorum; hayal ettiğim şeyleri
 - **Minecraft Mod / Plugin** – Java ile oyun deneyimini geliştiren modlar ve pluginler.  
 - **Discord Botları** – Node.js ve JavaScript ile özelleştirilmiş botlar.  
 - **Indie Projeler** – Küçük ama yaratıcı oyun ve uygulama fikirleri.  
-- **Tasarım & Video** – Photoshop, DaVinci Resolve ve Blender ile yaratıcı işler.  
+- **Tasarım & Video** – Photoshop, DaVinci Resolve ve Blender ile yaratıcı işler.
+
+---
+
+## 🎓 Deneyap Teknoloji Atölyeleri Sertifikalarım
+
+Deneyap Teknoloji Atölyeleri'nde aldığım eğitimler ve kazandığım sertifikalar:
+
+- **Yazılım Teknolojileri** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/85151306054143/)
+- **Yapay Zeka** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/79468626196362/)
+- **Siber Güvenlik** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/52613844194115/)
+- **Robotik ve Kodlama** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/82790310035586/)
+- **Mobil Uygulama** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/01300585541019/)
+- **Nanoteknoloji ve Malzeme Bilimi** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/09084511263460/)
+- **İleri Robotik** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/17370927023725/)
+- **Havacılık ve Uzay Teknolojileri** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/96972449418140/)
+- **Enerji Teknolojileri** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/12972063940087/)
+- **Elektronik Programlama ve Nesnelerin İnterneti** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/62114154119153/)
+- **Tasarım ve Üretim** – [Doğrulama Linki](https://drdogrulama.sanayi.gov.tr/tr/verify/73998838927723/)
+
+Bu sertifikalar, teknolojiye olan tutkumun ve bu alandaki bilgi birikimimin bir göstergesidir.
 
 ---
 
